@@ -34,3 +34,17 @@ Contains real-world-like e-commerce supply chain data including orders, shipping
 
 
 ## Project Structure
+
+
+## Live Dashboard
+
+
+## About Me
+Highly motivated data analyst with experience in business development across various sectors and departments, such as Marketing, Logistics, Sales and Finance. With a keen eye for detail and a strategic mindset, I utilize data to deliver effective solutions and generate increased business value. Proficient in project management, data analysis, and stakeholder communication to achieve business objectives.
+
+Looking for full-time or freelance remote Data Analyst opportunities.  
+Feel free to connect: [https://www.linkedin.com/in/katrin-rogova-data-analyst/]
+
+---
+⭐ If you found this project useful, please give it a star!  
+Feedback and suggestions are always welcome.
