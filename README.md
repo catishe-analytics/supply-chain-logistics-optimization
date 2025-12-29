@@ -1,6 +1,10 @@
 # Supply Chain Logistics Optimization: Reducing Delivery Delays and Costs
 End-to-end analysis of a global supply chain dataset (~180,000 orders) to identify key drivers of late deliveries, optimize shipping costs, and provide actionable business recommendations. This is my portfolio project as a Data Analyst, showcasing the skills I have gained in real projects.
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)]()
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi)]()
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+
 ## Project Overview
 This project demonstrates core Data Analyst skills:
 - Exploratory Data Analysis (EDA)
@@ -34,12 +38,15 @@ Contains real-world-like e-commerce supply chain data including orders, shipping
 
 
 ## Project Structure PLAN PLACEHOLDER
-- 01_EDA_and_Cleaning.ipynb          # Data loading, cleaning, and exploratory analysis
-- 02_Advanced_Analysis.ipynb         # Deep dives, segmentation, forecasting
-- cleaned_supply_chain.csv           # Cleaned dataset
-- dashboard/                         # Screenshots or .pbix/.twb file
-- README.md                          # This file
-- requirements.txt                   # Python dependencies
+
+<pre style="font-size: 14px;">
+- 01_EDA_and_Cleaning.ipynb   <span style="color: #666;"># Data loading, cleaning, and exploratory analysis</span>
+- 02_Advanced_Analysis.ipynb  <span style="color: #666;"># Deep dives, segmentation, forecasting</span>
+- cleaned_supply_chain.csv    <span style="color: #666;"># Cleaned dataset</span>
+- dashboard/                  <span style="color: #666;"># Screenshots or .pbix/.twb file</span>
+- README.md                   <span style="color: #666;"># This file</span>
+- requirements.txt            <span style="color: #666;"># Python dependencies</span>
+</pre>
 
 
 ## Live Dashboard PLACEHOLDER
