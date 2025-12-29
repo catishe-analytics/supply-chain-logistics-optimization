@@ -33,10 +33,16 @@ Contains real-world-like e-commerce supply chain data including orders, shipping
 ## Business Recommendations PLACEHOLDER
 
 
-## Project Structure
+## Project Structure PLAN PLACEHOLDER
+├── 01_EDA_and_Cleaning.ipynb          # Data loading, cleaning, and exploratory analysis
+├── 02_Advanced_Analysis.ipynb         # Deep dives, segmentation, forecasting
+├── cleaned_supply_chain.csv           # Cleaned dataset
+├── dashboard/                         # Screenshots or .pbix/.twb file
+├── README.md                          # This file
+└── requirements.txt                   # Python dependencies
 
 
-## Live Dashboard
+## Live Dashboard PLACEHOLDER
 
 
 ## About Me
